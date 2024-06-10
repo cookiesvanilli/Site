@@ -1,0 +1,13 @@
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+tmp
+*_old
+*_backup
+Thumbs.db
+.DS_Store
